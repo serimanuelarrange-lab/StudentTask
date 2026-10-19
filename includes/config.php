@@ -5,7 +5,7 @@
 define('BASE_URL', '/studenttask');
 
 // Adresse complète du site, utilisée dans l'e-mail de bienvenue.
-define('SITE_URL', 'http://localhost/studenttask');
+define('SITE_URL', 'https://studenttask-ndz8.onrender.com/');
 
 // Mode développement : affiche des détails techniques en cas d'erreur.
 // À passer à false avant la présentation finale.
