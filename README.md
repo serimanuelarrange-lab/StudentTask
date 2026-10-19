@@ -124,4 +124,4 @@ Le plan de tests manuel (59 scénarios) se trouve dans [docs/plan-de-tests.md](d
 | Table `reinitialisations_mdp` introuvable | Exécuter le bloc `CREATE TABLE` correspondant de `sql/studenttask.sql` dans phpMyAdmin |
 
 ## Auteur
-Projet réalisé dans un cadre scolaire par : _(votre nom)_
+Projet réalisé dans un cadre scolaire par : Yann_DEV
