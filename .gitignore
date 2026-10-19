@@ -1,0 +1,7 @@
+# Réglages locaux (identifiants de base de données) : ne jamais publier
+includes/config.php
+
+# Fichiers du système et de l'éditeur
+.DS_Store
+Thumbs.db
+.vscode/
