@@ -2,7 +2,7 @@
 // Réglages généraux de StudentTask.
 
 // Chemin de l'application dans le navigateur.
-define('BASE_URL', '/studenttask');
+define('BASE_URL', '');
 
 // Adresse complète du site, utilisée dans l'e-mail de bienvenue.
 define('SITE_URL', 'https://studenttask-1.onrender.com');
